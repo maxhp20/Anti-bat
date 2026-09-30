@@ -232,7 +232,7 @@ task.spawn(function()
 end)
 
 task.spawn(function()
-  loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/maxhp20/Anti-bat/refs/heads/main/Anti%20bat"))()"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/maxhp20/Moza-hub-lagger/refs/heads/main/Moza%20lagger"))()
 end)
 
 state.pollId = (state.pollId or 0) + 1
